@@ -7,7 +7,7 @@
 
 (deftheme base16-railscasts)
 
-(let ((background "#272935")
+(let ((background "#2b2b2b")
       (current-line "#5a647e")
       (selection "#d4cfc9")
       (foreground "#f4f1ed")
